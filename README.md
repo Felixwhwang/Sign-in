@@ -41,7 +41,7 @@ It is three-tier architecture, the first tier using css and bootstrap-3.2.0 to b
 - [x] Simple welcome client view page
 - [x] Delete function for admin
 - [x] Checkbox modification
-- [x] Real deployment on bluehost
+- [x] Real tablet environment on bluehost
 
 ## Deployment
 I have a bluehost server for domain automatedquiz.com. The demo will be available on http://automatedquiz.com/signin/, but only for client registration and login. Here I put admin login view, client information adding view and user table view below.
