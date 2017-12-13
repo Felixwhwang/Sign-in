@@ -33,7 +33,7 @@ It is three-tier architecture, the first tier using css and bootstrap-3.2.0 to b
 - [x] Architecture design
 - [x] Client side data submition
 - [x] Checking database connected successfully or not
-- [x] Build amdin view table to check if admin can receive data from database successfully
+- [x] Build admin view table to check if admin can receive data from database successfully
 - [x] Admin Login function
 - [x] Admin session security design
 - [x] Client Login function
